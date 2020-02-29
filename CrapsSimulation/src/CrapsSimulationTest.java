@@ -17,5 +17,7 @@ class CrapsSimulationTest
 		Die die = new CrookedDie1();
 		assertEquals("CrookedDie1.testStatic()", die.testStatic()); 
 	}
+	
+	//
 
 }
