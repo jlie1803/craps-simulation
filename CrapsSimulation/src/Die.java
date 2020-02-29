@@ -49,6 +49,6 @@ public class Die
 	
 	public static String testStatic()
 	{
-		return "CrookedDie1.testStatic()";
+		return "Die.testStatic()";
 	}
 }
