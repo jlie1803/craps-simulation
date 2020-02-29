@@ -90,6 +90,9 @@ public class PlayWithInheritance
 		else if (RUN_EXAMPLE == OVERRIDING_STATIC)
 		{
 			// your [H2-9] code goes here
+			CrookedDie1 die;
+			die = new CrookedDie1();
+			StdOut.print(die.testStatic());
 		}
 
 		StdOut.println();
